@@ -3,7 +3,7 @@
 ## Day 1: 2023-05-03
 
 ### Project:
-- Simple program to get user input and print out the user provided input
+- Simple program to get user input and print out the user provided input in string
 
 ### Documents in Lesson:
 - Python Syntax Cheat Sheet
