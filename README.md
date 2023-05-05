@@ -12,3 +12,11 @@
 - Coding Notebook Sheets
 - Check-Off Poster
 - 12 Rules to learn to code
+
+## Day 2: 2023-05-04
+
+### Project:
+- Tip & Split Calculator
+
+### Documents in Lesson:
+- None
