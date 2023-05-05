@@ -2,7 +2,7 @@
 
 ## Day 1: 2023-05-03
 
-### Project:
+### Project(s):
 - Simple program to get user input and print out the user provided input in string
 
 ### Documents in Lesson:
@@ -15,8 +15,9 @@
 
 ## Day 2: 2023-05-04
 
-### Project:
+### Project(s):
 - Tip & Split Calculator
+- BMI Calculator
 
 ### Documents in Lesson:
 - None
