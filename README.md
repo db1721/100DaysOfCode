@@ -2,8 +2,8 @@
 
 ## Day 1: 2023-05-03
 
-### Project:
-- Simple program to get user input and print out the user provided input in string
+### Project(s):
+- Band Name Generator
 
 ### Documents in Lesson:
 - Python Syntax Cheat Sheet
@@ -15,8 +15,17 @@
 
 ## Day 2: 2023-05-04
 
-### Project:
+### Project(s):
 - Tip & Split Calculator
+- BMI Calculator
 
-### Documents in Lesson:
-- None
+## Day 3: 2023-05-11
+
+### Project(s):
+- Treasure Island
+- BMI Calculator
+- Leap Year
+- Love Calculator
+- Odd or Even
+- Pizza Order
+- Roller Coaster Ticketing
