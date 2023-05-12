@@ -12,11 +12,9 @@ while True:
         percentage2 += combined_names.lower().count(letter2)
 
     love_score = int(f"{percentage1}{percentage2}")
-    if love_score < 10:
+    if love_score < 10 or love_score > 100:
         print(f"Your score is {love_score}%. You go together like coke and mentos")
     elif 40 <= love_score <= 50:
         print(f"Your score is {love_score}%, you are alright together")
-    elif love_score > 100:
-        print(f"Your score is {love_score}%, you are perfect for each other")
     else:
         print(f"Your score is {love_score}%")
