@@ -12,6 +12,8 @@ while True:
             ticket_price += 5
         elif age <= 18:
             ticket_price += 7
+        elif 45 <= age <= 55:
+            ticket_price += 0
         else:
             ticket_price += 12
 
