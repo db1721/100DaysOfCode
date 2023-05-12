@@ -31,7 +31,7 @@ while direction_check:
     if direction.upper() in ('L', 'LEFT'):
         direction_check = False
     elif direction.upper() in ('R', 'RIGHT'):
-        sys.exit('Game Over')
+        sys.exit('You got run over. Game Over')
     else:
         print("Please enter Left or Right: ")
 
